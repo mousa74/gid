@@ -1,0 +1,2 @@
+client_id,round_number,timestamp,battery_level,cpu_usage,memory_usage,battery_drain_rate,energy_efficiency,source
+2359850236846481181,0,1749976749.1039867,39.75075525878866,5.8,9.7,0.13720380809637234,9.681812884871995e-09,resource_predictor
